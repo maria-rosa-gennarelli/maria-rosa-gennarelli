@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- :rocket:: I am a develhope student..
+- :rocket: I am a develhope student..
 - :eyes: I hope to become a java wizard..
-- 💬 Ask me about everuthing
-- 😄 Pronouns: Mary
+- 💬 Ask me about everything
+- 😄 Pronouns: maaary or meryyy
 - :octocat: byebyee
 -->
 
