@@ -9,7 +9,12 @@
  
  <div align=center>
  <h2>My skills</h2>
-![download (2)](https://user-images.githubusercontent.com/116734507/220906757-9e52a18b-4eb0-453f-857e-4ffe75333236.jpg)
+Java - 
+ SQL -
+ NoSQL -
+ Protocollo REST - 
+ Spring, Springboot -
+ Agile project management
 
  
  
