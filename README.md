@@ -13,8 +13,10 @@ Java -
  SQL -
  NoSQL -
  Protocollo REST - 
- Spring, Springboot -
- Agile project management
+ Spring - Springboot -
+ Agile project management (Scrum) - 
+ Git - 
+ GitHub
 
  
  
