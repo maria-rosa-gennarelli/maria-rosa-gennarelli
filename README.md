@@ -5,7 +5,7 @@
 ### Hi there 👋
 
  :octocat:  I'm a Junior Java Back-end Developer and I'm ready to discover this world and immerse myself totally. 
- I'm studying my first language (JAVA - SQL - SPRING) following a course "DEVELHOPE"
+ I'm studying my first language (JAVA - SQL - SPRING) following a course "Develhope"
  
  <div align=center>
  <h2>My skills</h2>
