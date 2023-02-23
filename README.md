@@ -13,7 +13,8 @@
  SQL -
  NoSQL -
  Protocollo REST - 
- Spring, Springboot -
+ Spring -
+ Springboot -
  Agile project management -
  
 ![JAVA](https://img.shields.io/badge/Java-%23CB3837.svg?style=for-the-badge&logo=java&logoColor=white)
