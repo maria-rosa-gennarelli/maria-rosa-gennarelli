@@ -9,14 +9,14 @@
  
  <div align=center>
  <h2>My skills</h2>
-Java - 
+ Java - 
  SQL -
  NoSQL -
  Protocollo REST - 
- Spring - Springboot -
- Agile project management (Scrum) - 
- Git - 
- GitHub
+ Spring, Springboot -
+ Agile project management -
+ 
+
 
  
  
