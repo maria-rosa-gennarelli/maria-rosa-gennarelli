@@ -15,7 +15,7 @@
  Protocollo REST - 
  Spring -
  Springboot -
- Agile project management -
+ Agile project management
  
 ![JAVA](https://img.shields.io/badge/Java-%23CB3837.svg?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
